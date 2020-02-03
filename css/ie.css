@@ -1,0 +1,3 @@
+/* for ie fixes */
+#yam-menu-top > li > a, .yam-menu-top > li > a { padding: 0px 12px; }
+.slider-area .favorite a { width: 110px; }
